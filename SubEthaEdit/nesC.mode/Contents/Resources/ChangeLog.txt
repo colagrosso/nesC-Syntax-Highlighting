@@ -1,0 +1,15 @@
+Changes with Version 1.3.1 (SEE 2.3)
+    *) Added nesC support
+
+Changes with Version 1.3 (SEE 2.3)
+
+    *) SYMBOLS: Fixed SEE-490.
+    *) AUTOCOMPLETE: Added important Carbon keywords
+
+Changes with Version 1.2
+    
+    *) SYNTAX: Fixed preprocessor end regex. HYR-410.
+
+Changes with Version 1.1
+    
+    *) SYNTAX: Changed Character to state to fix HYR-371.
